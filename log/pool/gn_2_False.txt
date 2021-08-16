@@ -1,0 +1,14 @@
+===2021-08-16 10:21:13===
+===Setting===
+    lr: 0.01
+    batch: 32
+    iters: 3
+    use group norm: True
+    group number: 2
+============ Train epoch 0/3 ============
+ Train Loss: 2.2184 | Train Acc: 0.1750 | Val Loss: 2.3252 | Val Acc: 0.2500
+***update best model, save to ../checkpoint/domainnet/pool/gn_2_False.pt***
+============ Train epoch 1/3 ============
+ Train Loss: 2.2838 | Train Acc: 0.1375 | Val Loss: 2.4093 | Val Acc: 0.0000
+============ Train epoch 2/3 ============
+ Train Loss: 2.2539 | Train Acc: 0.1500 | Val Loss: 2.4093 | Val Acc: 0.1000

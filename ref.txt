@@ -1,0 +1,2 @@
+select gpu id:
+CUDA_VISIBLE_DEVICES=0,1 python script.py

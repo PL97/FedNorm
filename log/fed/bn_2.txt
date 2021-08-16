@@ -1,0 +1,7 @@
+===2021-08-16 10:02:29===
+===Setting===
+    lr: 0.01
+    batch: 32
+    iters: 3
+    use group norm: False
+    group number: 2
